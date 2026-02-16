@@ -69,7 +69,7 @@ const Hero: React.FC = () => {
                   </div>
                   <div className="text-right">
                     <div className="text-xs text-zinc-500 uppercase tracking-wider mb-1">Installierte Leistung</div>
-                    <div className="text-white font-medium"> > 5 Megawatt</div>
+                    <div className="text-white font-medium"> &gt; 5 Megawatt</div>
                   </div>
                 </div>
                 
